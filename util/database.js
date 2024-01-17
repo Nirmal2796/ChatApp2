@@ -8,3 +8,5 @@ const sequelize = new Sequelize('node-complete', 'root', 'Nirmal@27', {
 
 
 module.exports = sequelize;
+
+// Connection file or connection to the database
